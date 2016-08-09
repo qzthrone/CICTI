@@ -1,0 +1,1 @@
+"./BlkFirDecim_f2.obj" "./IdleLoop.obj" "./diggain_f1.obj" "./pick_bits_cic_f2.obj" "./pll_control.obj" "../target_test.cmd" -l"C:/ti/c55_lp/c55_csl_3.06/ccs_v6.x_examples/C55XXCSL_LP/Debug/C55XXCSL_LP.lib" -lrts55x.lib 
